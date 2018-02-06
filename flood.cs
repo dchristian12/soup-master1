@@ -19,7 +19,7 @@ namespace CallBomber
     {
         public static string accountSid = "*********";
         public static string authtoken = "*********";
-        public static List<string> numbers = new List<string>(new string[] { "+10000000000", "+10000000000", "+10000000000", "+10000000000", "+10000000000", "+10000000000", "+10000000000", "+10000000000", "+10000000000", "+10000000000", "+10000000000", "+10000000000", "+10000000000", "+10000000000", "+10000000000", "+10000000000", "+10000000000", "+10000000000", }); // Replace "" with phone numbers
+        public static List<string> numbers = new List<string>(new string[] { "+16785710343", "+10000000000", "+10000000000", "+10000000000", "+10000000000", "+10000000000", "+10000000000", "+10000000000", "+10000000000", "+10000000000", "+10000000000", "+10000000000", "+10000000000", "+10000000000", "+10000000000", "+10000000000", "+10000000000", "+10000000000", }); // Replace "" with phone numbers
         public static List<string> numbersInUse = new List<string>();
         public static string NumToCall = "";
         static void Main(string[] args)
